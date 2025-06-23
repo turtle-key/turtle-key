@@ -18,10 +18,10 @@ I like software, hardware and engineering.
   <img alt="github-snake" src="https://github-readme-stats.vercel.app/api/top-langs/?username=turtle-key&theme=default&layout=compact&card_width=466" />
 </picture>
 
+--- END RANDOM STATS NO ONE READS ---
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/turtle-key/turtle-key/raw/snk/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/turtle-key/turtle-key/raw/snk/github-snake.svg" />
   <img alt="github-snake" src="https://github.com/turtle-key/turtle-key/raw/snk/github-snake.svg" />
 </picture>
-
---- END RANDOM STATS NO ONE READS ---
