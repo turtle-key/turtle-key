@@ -7,12 +7,6 @@ I like software, hardware and engineering.
 --- BEGIN RANDOM STATS NO ONE READS ---
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/turtle-key/turtle-key/raw/snk/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/turtle-key/turtle-key/raw/snk/github-snake.svg" />
-  <img alt="github-snake" src="https://github.com/turtle-key/turtle-key/raw/snk/github-snake.svg" />
-</picture>
-
-<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=turtle-key&theme=dark&show_icons=true&v" />
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=turtle-key&theme=default&show_icons=true&v" />
   <img alt="github-snake" src="https://github-readme-stats.vercel.app/api?username=turtle-key&theme=default&show_icons=true&v" />
@@ -22,6 +16,12 @@ I like software, hardware and engineering.
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=turtle-key&theme=dark&layout=compact&card_width=466" />
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=turtle-key&theme=default&layout=compact&card_width=466" />
   <img alt="github-snake" src="https://github-readme-stats.vercel.app/api/top-langs/?username=turtle-key&theme=default&layout=compact&card_width=466" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/turtle-key/turtle-key/raw/snk/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/turtle-key/turtle-key/raw/snk/github-snake.svg" />
+  <img alt="github-snake" src="https://github.com/turtle-key/turtle-key/raw/snk/github-snake.svg" />
 </picture>
 
 --- END RANDOM STATS NO ONE READS ---
