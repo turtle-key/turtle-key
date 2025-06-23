@@ -7,6 +7,6 @@ I like software, hardware and engineering.
 --- BEGIN RANDOM STATS NO ONE READS ---
 
 ![face-hh](https://github-readme-stats.vercel.app/api?username=turtle-key&show_icons=true&theme=gotham)
-![face-hh](https://github-readme-stats.vercel.app/api/top-langs?username=turtle-key&show_icons=true&theme=gotham)
+![face-hh](https://github-readme-stats.vercel.app/api/top-langs?username=turtle-key&show_icons=true&theme=gotham&layout=compact&card_width=466)
 
 --- END RANDOM STATS NO ONE READS ---
