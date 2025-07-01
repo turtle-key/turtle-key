@@ -32,6 +32,10 @@ jobs:
           ##################################
           # Plugins for rich contributions #
           ##################################
+          
+          # Isometric calendar
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
 
           # Achievements
           #plugin_achievements: yes
@@ -50,15 +54,11 @@ jobs:
           plugin_languages_analysis_timeout: 30
           plugin_languages_analysis_timeout_repositories: 10
 
-          # Isometric calendar
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
 
           # Repositories traffic (views and clones)
           plugin_traffic: yes
 
-          # Code size
-          plugin_code: yes
+          plugin_lines: yes
 
           # Discussions
           plugin_discussions: yes
@@ -68,16 +68,9 @@ jobs:
           #plugin_topics_mode: icons
           #plugin_topics_limit: 15
 
-          # Notable contributions to other repositories
-          plugin_contributors: yes
-
           # Repositories
           plugin_repositories: yes
           plugin_repositories_featured: turtle-key/TabLift
-
-          # Stars
-          plugin_stars: yes
-          plugin_stars_limit: 4
 
           # Recent activity
           plugin_activity: yes
