@@ -55,7 +55,5 @@ jobs:
           # Repositories traffic (views and clones)
           plugin_traffic: yes
 
-          plugin_lines: yes
-
           # Discussions
           plugin_discussions: yes
