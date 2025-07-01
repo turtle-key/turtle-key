@@ -3,6 +3,7 @@
 I like software, hardware and engineering.
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&width=1000&color=2FBE8F&lines=If+you+don't+use+linux%2C+we+can't+be+friends.;Distro+doesen't+matter%2C+linux+is+linux!;If+you+read+this%2C+go+touch+some+grass!)](https://git.io/typing-svg)
+<img src="/github-metrics.svg" alt="Metrics" width="60%">
 
 --- BEGIN RANDOM STATS NO ONE READS ---
 
@@ -17,6 +18,8 @@ I like software, hardware and engineering.
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=turtle-key&theme=default&layout=compact&card_width=466" />
   <img alt="github-snake" src="https://github-readme-stats.vercel.app/api/top-langs/?username=turtle-key&theme=default&layout=compact&card_width=466" />
 </picture>
+
+<a href="https://u8views.com/github/turtle-key"><img src="https://u8views.com/api/v1/github/profiles/109158803/views/day-week-month-total-count.svg"></a>
 
 --- END RANDOM STATS NO ONE READS ---
 
